@@ -1,6 +1,6 @@
 ### Welcome to my Github Page, I'm Cherif Y. Ndiaye - aka Rifmeister 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Software Engineer Student and also a Backend Developer
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
