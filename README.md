@@ -1,6 +1,6 @@
 ### Welcome to my Github Page, I'm Cherif Y. Ndiaye - aka Rifmeister 👋
 
-## I'm a Software Engineer Student and also a Backend Developer
+## I'm a Software Engineer
 
 - I like everything related to the coffee langage (lol I mean Java)
 - I like also to read books and learn new stuff every week
