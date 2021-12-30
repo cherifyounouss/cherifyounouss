@@ -2,9 +2,14 @@
 
 ## I'm a Software Engineer
 
-- I like everything related to the coffee langage (lol I mean Java)
+### Some facts
+
+- I've been able to build solid foundations on Java but currently hardly working python
 - I like also to read books and learn new stuff every week
-- Kaizen Mindset is great
+- I like bringing value to a software by being embeeded in the design process of it
+- Mindset : I don't have any favourite programming language or framework... Just look for the more suitable whenever I'm facing a specific task
+- Domain Driven Design (DDD) is a great approach to tackle software building and his inherent complexity
+- I like to read Martin Fowler
 
 ### Connect with me:
 
