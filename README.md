@@ -1,4 +1,4 @@
-### Welcome to my Github Page, I'm Cherif Y. Ndiaye - aka Rifmeister 👋
+### Welcome to my Github Profile, I'm Cherif Y. Ndiaye - aka Rifmeister 👋
 
 ## I'm a Software Engineer
 
