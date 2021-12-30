@@ -4,7 +4,7 @@
 
 ### Some facts
 
-- I've been able to build solid foundations on Java but currently hardly working python
+- I've been able to build solid foundations on Java but currently working with python
 - I like also to read books and learn new stuff every week
 - I like bringing value to a software by being embeeded in the design process of it
 - Mindset : I don't have any favourite programming language or framework... Just look for the more suitable whenever I'm facing a specific task
