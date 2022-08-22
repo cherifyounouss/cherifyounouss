@@ -38,8 +38,3 @@
 
 [twitter]: https://twitter.com/cherifyounoussn
 [linkedin]: https://www.linkedin.com/in/cherif-younouss-ndiaye-495132146
-
-<br />
-
-### Stats
-<img src="https://github-readme-stats.vercel.app/api?username=cherifyounouss&show_icons=true"/>
