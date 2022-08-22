@@ -40,6 +40,3 @@
 [linkedin]: https://www.linkedin.com/in/cherif-younouss-ndiaye-495132146
 
 <br />
-
-### Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cherifyounouss" />
