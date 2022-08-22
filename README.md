@@ -5,11 +5,12 @@
 ### Some facts
 
 - I've been able to build solid foundations on Java but currently working with python
-- I like also to read books and learn new stuff every week
+- I like to read books and learn new stuff every week
 - I like bringing value to a software by being embeeded in the design process of it
-- Mindset : I don't have any favourite programming language or framework... Just look for the more suitable whenever I'm facing a specific task
+- Mindset : I don't have any favourite programming language or framework... Just look for the more suitable tool whenever I'm facing a specific task
 - Domain Driven Design (DDD) is a great approach to tackle software building and his inherent complexity
 - I like to read Martin Fowler
+- I'm currently working a lot in GIS related stuffs
 
 ### Connect with me:
 
